@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "114a8f87075c4d4ede702193feae23af"
+build_time: [512721947, 892446000]
+inputs:
+  "/Users/kennethharvey/Desktop/iPhoneApps/ECE158B_App/ECE158B_App/ViewController.swift": [512720558, 0]
+  "/Users/kennethharvey/Desktop/iPhoneApps/ECE158B_App/ECE158B_App/AppDelegate.swift": [512719921, 0]
